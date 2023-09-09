@@ -1,0 +1,5 @@
+com\obsqura\tests\SearchProductTest.class
+com\obsqura\tests\LoginTest.class
+com\obsqura\tests\CreateDeliveryBoy.class
+com\obsqura\tests\BaseTest.class
+com\obsqura\tests\CreateandDeleteExpense.class
